@@ -1,5 +1,3 @@
   def introduction(name)
-    puts "what is up #{name}"
+    puts "Hi, my name is #{name}"
   end
-
-introduction("joe")
